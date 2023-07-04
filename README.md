@@ -1,3 +1,4 @@
-this is a new repo triggred for Jnekins job new commit
+this is a new repo trigger  Jenkins by commit 
+
 
 
